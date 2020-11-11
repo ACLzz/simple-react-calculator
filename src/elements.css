@@ -1,0 +1,35 @@
+.digit {
+    margin: 3px;
+    border: lightgray solid 1px;
+    flex-grow: 4;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.digit p {
+    margin: 0 auto;
+    padding-top: 43%;
+}
+
+.digit:hover {
+    border: black solid 1px;
+}
+
+.op {
+    margin: 3px;
+    border: lightgray solid 1px;
+    flex-grow: 4;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.op p {
+    margin: 0 auto;
+    padding-top: 43%;
+}
+
+.op:hover {
+    border: black solid 1px;
+}
